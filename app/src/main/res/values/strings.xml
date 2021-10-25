@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld!</string>
+    <string name="head">This is the first application from Group nG05:</string>
+    <string name="Bottom">The application was developed by Jana Puze</string>
+    <string name="Jana">*Jana Puze*</string>
+    <string name="Zanda">*Zanda Puče*</string>
+    <string name="Ingars">*Ingars Jēkabsons*</string>
+</resources>
